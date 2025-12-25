@@ -217,8 +217,6 @@ Set with `SPRING_PROFILES_ACTIVE` or `spring.profiles.active`.
 
 ---
 
-## License
-Add your license text here (e.g., MIT, Apache 2.0). If this is private/proprietary, specify usage restrictions accordingly.
 
 ---
 
